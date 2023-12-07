@@ -37,7 +37,6 @@ This is a simple app to demonstrate how to connect a Ruby on Rails back-end with
 
 - Ruby on Rails
 - React
-- Webpack
 - PostgreSQL
 
 ### Key Features <a name="key-features"></a>

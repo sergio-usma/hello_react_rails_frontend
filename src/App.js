@@ -4,11 +4,11 @@ import Greetings from './components/Greetings';
 
 function App() {
   return (
-      <Router>
-        <Routes>
-          <Route exact path="/" element={<Greetings />} />
-        </Routes>
-      </Router>
+    <Router>
+      <Routes>
+        <Route exact path="/" element={<Greetings />} />
+      </Routes>
+    </Router>
   );
 }
 
